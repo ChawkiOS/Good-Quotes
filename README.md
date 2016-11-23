@@ -2,4 +2,5 @@
 Windows 8.1 application. 
 Good Quotes lets you easily search for your favorite quotes and discover new ones...
 
-![Loading View](https://www.dropbox.com/s/h4ogje9s5j4xhbd/Loading.png?dl=0)
+# Screens
+![Loading View](https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/15181699_673597236144676_2244515783989476854_n.jpg?oh=8211761995bb1172f5a74592a0b63ee5&oe=58B19725)
